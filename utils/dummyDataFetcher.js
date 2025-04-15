@@ -6,7 +6,7 @@ require('dotenv').config();
 mongoose.connect(process.env.MONGO_URI);
 
 (async () => {
-  const res = await fetch('https://fakestoreapi.com/products');
+  const res = await fetch(http://localhost:5000/api/products');
   const data = await res.json();
   await Product.insertMany(data.map(p => ({
     name: p.title,
