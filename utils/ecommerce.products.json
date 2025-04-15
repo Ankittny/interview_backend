@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "67f79e3dad15d8a8d407addf"
+  },
+  "name": "Whole ₹169.00 /500g",
+  "category": "Chicken",
+  "price": 239.99,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744281149827-124491972.jpg",
+  "createdAt": {
+    "$date": "2025-04-10T10:32:29.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T10:32:29.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f79e48ad15d8a8d407ade1"
+  },
+  "name": "Whole ₹169.00 /500g",
+  "category": "Chicken",
+  "price": 239.99,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744281160852-358719590.jpg",
+  "createdAt": {
+    "$date": "2025-04-10T10:32:40.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T10:32:40.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f79e50ad15d8a8d407ade5"
+  },
+  "name": "Whole ₹169.00 /500g dsfsdf",
+  "category": "Mutton",
+  "price": 239,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744365174959-843947117.jpeg",
+  "createdAt": {
+    "$date": "2025-04-10T10:32:48.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T09:53:10.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f79e50ad15d8a8d407ade7"
+  },
+  "name": "Whole ₹169.00 /500g dsfsdf",
+  "category": "Mutton",
+  "price": 239,
+  "description": "Boneless, skinless, great for grilling dsfsdfsd",
+  "image": "uploads\\1744281168878-995619562.jpg",
+  "createdAt": {
+    "$date": "2025-04-10T10:32:48.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T09:52:21.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7a595ad15d8a8d407ae0f"
+  },
+  "name": "Whole ₹169.00 /500g ankit",
+  "category": "Mutton",
+  "price": 239.99,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744363036084-594159104.jpg",
+  "createdAt": {
+    "$date": "2025-04-10T11:03:49.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T09:40:39.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7a822c30d812229679818"
+  },
+  "name": "Whole ₹169.00 /500g",
+  "category": "Chicken",
+  "price": 239.99,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744283682976-943332037.jpg",
+  "createdAt": {
+    "$date": "2025-04-10T11:14:42.978Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T11:14:42.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7a828c30d81222967982a"
+  },
+  "name": "Whole ₹169.00 /500g",
+  "category": "Chicken",
+  "price": 239.99,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744283688978-172934272.jpg",
+  "createdAt": {
+    "$date": "2025-04-10T11:14:48.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T11:14:48.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7a829c30d81222967982c"
+  },
+  "name": "Whole ₹169.00 /500g",
+  "category": "Fish",
+  "price": 239.99,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744283689673-329220518.jpg",
+  "createdAt": {
+    "$date": "2025-04-10T11:14:49.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T10:49:43.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7a82cc30d812229679834"
+  },
+  "name": "Whole ₹169.00 /500g dd",
+  "category": "Mutton",
+  "price": 239.99,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744365114936-204914476.jpeg",
+  "createdAt": {
+    "$date": "2025-04-10T11:14:52.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T09:51:54.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f7a82dc30d812229679836"
+  },
+  "name": "Whole ₹169.00 /500g",
+  "category": "Chicken",
+  "price": 239.99,
+  "description": "Boneless, skinless, great for grilling",
+  "image": "uploads\\1744283693057-804196320.jpg",
+  "createdAt": {
+    "$date": "2025-04-10T11:14:53.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T11:14:53.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f8e4c52f91af590e827fc7"
+  },
+  "name": "dsfsdf",
+  "category": "Mutton",
+  "price": 400,
+  "description": "efsdfsdf",
+  "image": "uploads\\1744364741018-255206358.jpeg",
+  "createdAt": {
+    "$date": "2025-04-11T09:45:41.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T09:45:41.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f8e51d2f91af590e828035"
+  },
+  "name": "dsfsdf",
+  "category": "Mutton",
+  "price": 500,
+  "description": "dsfdsf",
+  "image": "uploads\\1744364829367-36225341.jpeg",
+  "createdAt": {
+    "$date": "2025-04-11T09:47:09.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-11T09:47:09.369Z"
+  },
+  "__v": 0
+}]
